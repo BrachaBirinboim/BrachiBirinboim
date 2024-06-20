@@ -9,7 +9,7 @@ Hi there! I'm Brachi, a software engineering professional passionate about build
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/net-core.png" alt=".NET Core" />
+  <img src="https://img.icons8.com/fluency/48/000000/net-core.png" alt=".NET Core" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" />
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
