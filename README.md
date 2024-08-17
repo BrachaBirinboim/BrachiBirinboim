@@ -5,13 +5,12 @@
 
 Hi there! I'm Brachi, a software engineering professional passionate about building innovative solutions and exploring new technologies. Here is a glimpse of my skills and experience:
 <p>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-<p align="center">
-
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  
+   <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".Net Core" />
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" />
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/> <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+
  
 </p>
 ## 👩‍💻 About Me
