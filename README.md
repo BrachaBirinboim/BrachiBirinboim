@@ -1,5 +1,5 @@
 
-# Brachi Birinboim
+# Brachi Birnboim
 
 ## About Me
 
